@@ -43,4 +43,4 @@ Step 5) Where outputs go
 
 
 ## CCI Attribution
-Our implementation of the Conditional Conformal Inference (CCI) baseline is a direct adoption of the work from the conformal-safety repository. To ensure full reproducibility, we have included a local copy of the necessary modules in the conditional-conformal/ directory. We explicitly state that the code within this directory is not the work of the MACI project. For all details, please refer to the original repository: [conformal-safety](https://github.com/jjcherian/conformal-safety.git)
+Our implementation of the Conditional Conformal Inference (CCI) baseline is a direct adoption of the work from the [conformal-safety](https://github.com/jjcherian/conformal-safety.git) repository. To ensure full reproducibility, we have included a local copy of the necessary modules in the conditional-conformal/ directory. We explicitly state that the code within this directory is not the work of the MACI project. For all details, please refer to the original repository: [conformal-safety](https://github.com/jjcherian/conformal-safety.git)
