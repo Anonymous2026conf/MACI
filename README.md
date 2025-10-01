@@ -1,5 +1,5 @@
 # MACI
-This repository contains an anonymized version of our conformal filtering experiments. The entry point is `experiments/run_experiment.py`.
+This repository contains an anonymized version of our Multi-LLM Adaptive Conformal Inference experiments. The entry point is `experiments/run_experiment.py`.
 
 ## Abstract
 
