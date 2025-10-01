@@ -24,7 +24,7 @@ Step 3) Prepare data layout (repo-relative defaults)
 
 - Place data under `data/` in the repository root (or pass `--data-dir`).
 - For MedLFQA: put files under `data/med_scores/`.
-- For FactScore: put files under `data/fact_scores/`.
+- For WikiBio: put files under `data/wiki_scores/`.
 
 Step 4) Run a quick experiment (MedLFQA example)
 
